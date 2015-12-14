@@ -27,6 +27,7 @@
 | 功能                                       | 快捷键                                      | 位置                                       |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | [查看定义](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+B.gif) | Cmd+B                                    | Main menu->Navigate->Declaration         |
+| 查看实现类 | Cmd+Option+B                                    | Main menu->Navigate->Implementation         |
 | [智能选取](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Option+Up.gif) | Option+Up/Down                           | Editor Actions->Extend Selection/Shrink Selection |
 | 查看本类结构                                   | [Cmd+F12](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+F12.gif) [Cmd+7](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+7.gif) | Main menu->Navigate->File Structure   Other->Structure |
 | 查找和替换                                    | Cmd+F Cmd+R Cmd+Shift+F Cmd+Shift+R      | Main menu->Edit->Find/Replace            |
