@@ -1,4 +1,4 @@
-# AndroidStudioShortCut
+# AndroidStudio ShortCut
 
 当然网上也有很多关于 Android Studio 快捷键的文章，但感觉太冗杂，而且不同的平台快捷键又不一样，导致对着 Mac 打 Win#Eclipse 的快捷键不起作用。所以本篇文章整理的目的在于，`列出使用频繁的快捷键`并`告诉你在哪里设置它们`，而且`文字看不懂的还有动画`，这样即使你用的键盘跟我不一样，你也知道应该去哪里设置相应的键位。
 
