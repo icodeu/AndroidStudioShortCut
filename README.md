@@ -27,11 +27,13 @@
 | 功能                                       | 快捷键                                      | 位置                                       |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | [查看定义](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+B.gif) | Cmd+B                                    | Main menu->Navigate->Declaration         |
-| 查看实现类 | Cmd+Option+B                                    | Main menu->Navigate->Implementation         |
+| 跳转到具体实现位置 | Cmd+Option+B                                    | Main menu->Navigate->Implementation         |
 | [智能选取](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Option+Up.gif) | Option+Up/Down                           | Editor Actions->Extend Selection/Shrink Selection |
 | 查看本类结构                                   | [Cmd+F12](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+F12.gif) [Cmd+7](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+7.gif) | Main menu->Navigate->File Structure   Other->Structure |
 | 查找和替换                                    | Cmd+F Cmd+R Cmd+Shift+F Cmd+Shift+R      | Main menu->Edit->Find/Replace            |
 | [查看doc](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_F1Ctrl+J.gif) | F1 Ctrl+J                                | Main menu->View->Quick Documentation     |
+| 查看当前类的继承关系                                    | Ctrl+H      | Main menu->Navigate->Type Hierarchy           |
+| 查看方法调用关系                                    | Ctrl+Option+H      | Main menu->Navigate->Call Hierarchy           |
 
 ### 0x03 视图切换
 
@@ -53,6 +55,7 @@
 | ---------------------------------------- | -------------------- | ---------------------------------------- |
 | [LiveTemplate](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+J.gif) | Cmd+J                | Main menu->Code->Insert Live Template    |
 | [Generate](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+N.gif) | Cmd+N                | Main menu->Code->Generate                |
+|  覆写父类方法 | Cmd+N                | Main menu->Code->Override Methods                |
 | [智能提示](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Option+Enter.gif) | Option+Enter         | Other->Show Intention Actions            |
 | [关闭当前活动窗口](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Cmd+W.gif) | Cmd+W                | Main menu->Window->Editor Tabs->Close    |
 | 格式化代码                                    | Cmd+Option+L         | Main menu->Code->Reformat Code           |
@@ -60,6 +63,7 @@
 | [将当前行上下移动](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Shift+Option+Up.gif) | Shift+Option+Up/Down | Main menu->Code->Move Line Up/Move Line Down |
 | [插入多个光标协同编辑](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Shift+Option+左键.gif) | Shift+Option+左键      |                                          |
 | [从当前位置剪切到末尾](http://7xivx9.com1.z0.glb.clouddn.com/androidstudio_Ctrl+K.gif) | Ctrl+K               | Editor Actions->Cut up to Line End       |
+| Surround With| Cmd+Option+T               | Main menu->Code->Surround With       |
 
 ### 0x05 重构
 
